@@ -1,0 +1,41 @@
+test
+words
+that
+may
+or
+maynot
+be
+in
+dictionary
+leading
+plus
+trailing
+spaces
+    asdfg
+qwerty
+    zxcvb
+apple
+aple
+orange
+oranj
+banana
+banananana
+strawberry
+strawby
+grape
+graip
+pineapple
+pinaple
+computer
+compter
+software
+sftware
+algorithm
+algrothm
+keyboard
+keebord
+mouse
+mowse
+now this is a sentence.
+another sentence for testing.
+this paragraph has five sentences. here is sentence one. sentence one is followed by sentence two. HeRe are spllling errurs wItH Goofy CapItaLizaShun. eeven moar speling mistaiks in this santence just to verifi the progaham werks sooper well.
