@@ -1,3 +1,20 @@
+# My spell checker (original instructions left in below)
+
+I used python to create this spell checker, so make sure python is set up on your machine before running this.
+If you do not have it installed go here and follow instructions for the desired version: https://www.python.org/downloads/
+I have Python 3.9.6 on my machine, any active version (check here: https://devguide.python.org/versions/#versions) should do.
+In order to run this use the following commands:
+## Text file w/ misspellings (takes a while to run, time complexity is O(m*n) where m is the number of lines, n is the number of words in a line)
+```
+python spell-checker.py dictionary.txt file-to-check.txt
+```
+## Text file w/o misspellings to show that case is handled
+```
+python spell-checker.py dictionary.txt no-misspellings.txt
+```
+
+### Original instructions left below --------------------
+
 # Make a spell checker!
 
 Write a program that checks spelling. The input to the program is a dictionary file containing a list of valid words and a file containing the text to be checked.
