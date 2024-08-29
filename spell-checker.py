@@ -2,9 +2,10 @@ import sys
 import re
 from difflib import get_close_matches
 # Hope using get_close_matches from difflib to get suggestions is okay!
-# So you don't need to look at the docs for what get_close_matches takes as arguments, here's a brief explanation of them:
+
+# So you don't need to look at the docs for what get_close_matches takes as arguments, here's a brief summary of them:
 # get_close_matches(word, possibilities, n=3, cutoff=0.6)
-# word: a string to check against possibilitis
+# word: a string to check against possibilities
 # possibilities: a sequence of possible words to match against (the dictionary in our case)
 # n: an optional integer greater than 0 that is the max number of close matches (defaults to 3)
 # cutoff: an optional float in range [0,1] which is the minimum match score needed to be a "match" (defaults to 0.6)
